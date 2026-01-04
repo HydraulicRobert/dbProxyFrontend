@@ -10,6 +10,7 @@ this react frontend provides a secure dashboard for the [backend](https://github
 
 ## Requirements
 -**node.js:** v20.19 or newer
+
 -**backend:** instance of [backend](https://github.com/HydraulicRobert/NotificationAPI)
 
 ## Setup
