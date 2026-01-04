@@ -1,9 +1,13 @@
 ## Table of Contents
 - [About](#About)
+- [Requirements](#Requirements)
 - [How to Use](#how-to-use)
 
 ## About
 to be used with the corresponding [backend](https://github.com/HydraulicRobert/dbProxy)
+
+## Requirements
+nodejs v20.19 or newer
 
 ## how-to-use
 follow the instruction on [backend](https://github.com/HydraulicRobert/dbProxy#how-to-use)
